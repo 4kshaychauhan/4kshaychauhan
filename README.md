@@ -6,7 +6,14 @@
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 Reach me :-  Gmail - akshaychauhan7741@gmail.com.
 
-<!---
-4kshaychauhan/4kshaychauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/4kshaychauhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://twitter.com/4kshaychauhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+<a href = "https://www.instagram.com/4kshaychauhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>

@@ -1,7 +1,7 @@
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m @4kshaychauhan
-- 👀 I’m interested in **Android Development**
+- 👀 I’m interested in **Android Development & Web Development**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 Reach me :-  Gmail - akshaychauhan7741@gmail.com.

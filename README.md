@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 Reach me :-  Gmail - akshaychauhan7741@gmail.com.
 
-<a href="https://github.com/4kshaychauhan/github-readme-activity-graph"><img alt="Akshay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=4kshaychauhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/4kshaychauhan/github-readme-activity-graph"><img alt="Akshay's Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=4kshaychauhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true](https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent&theme=react-dark)" /></a>
 
 
 ## Connect with me:

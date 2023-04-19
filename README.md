@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 Reach me :-  Gmail - akshaychauhan7741@gmail.com.
 
+<a href="https://github.com/4kshaychauhan/4kshaychauhan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 ## Connect with me:
 
 <p align="left">
